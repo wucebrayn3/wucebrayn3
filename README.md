@@ -1,4 +1,4 @@
-Who goes there? Only cats are allowed.
+Why.
 
 <!---
 wucebrayn3/wucebrayn3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
